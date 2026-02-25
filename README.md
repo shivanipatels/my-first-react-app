@@ -12,8 +12,8 @@ This is my first React project built using Vite.
 - React
 - Vite
 - JavaScript
-- CSS
-
+- CS
+  
 ## Author
 Shivani Patel (B.Tech CSE Student)
 Learning MERN Stack 💻
